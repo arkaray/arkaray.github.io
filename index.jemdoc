@@ -8,10 +8,12 @@ Department of Computer Science and Automation\n
 Indian Institute of Science, Bengaluru, India\n
 Email: arkaray@iisc.ac.in\n
 ~~~
-Hi! I am Arka Ray. I am a computer science graduate.
-I have completed my B. Tech from University of Calcutta.
+
+Hi! I am Arka Ray. 
+I completed my B. Tech from University of Calcutta.
 I am currently doing my masters from Computer Science and Automation department of the prestigious Indian Institute of Science (visit [https://www.csa.iisc.ac.in/ CSA@IISc] for more).
 I have always taken an interest in the more theoretical side of computer science and have studied, as part of my coursework,
+== Courses
 - approximation algorithms,
 - [https://www.csa.iisc.ac.in/~arindamkhan/courses/toolkit20/TheoristsToolkit.html theorist's toolkit],
 	-- [docs/sos.pdf LP\/SDP\/Sum of Square Hierarchies] with Rameesh Paul
@@ -22,10 +24,10 @@ I have always taken an interest in the more theoretical side of computer science
 In addition, I was a TA for design and analysis of algorithms (winter 2020).
 
 I have just started my research on showing lower bounds on packing problems. This work is in collaboration with [https://www.csa.iisc.ac.in/~arindamkhan/index.html Arindam Khan].
+== Manuscripts/Publications
+- [https://arxiv.org/abs/2104.13362 There is no APTAS for 2-dimensional vector bin packing: Revisited.] CoRR, April 2021.
 
-Besides my academic endeavours I like to learn and play musical instruments. I know how to play the guitar, flute, and the violin, though I can not play them very well. 
-
-I also enjoy playing table tennis.
+Besides my academic endeavours I like to learn and play musical instruments. I know how to play the guitar, flute, and the violin, though I can not play them very well. I also enjoy playing table tennis.
 
 This Page is still under construction. Please visit later.
 
