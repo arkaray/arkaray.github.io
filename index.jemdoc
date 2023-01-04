@@ -3,30 +3,37 @@
 ~~~
 {}{img_left}{images/arkaray.png}{My Picture: Courtesy of CSA}{}{250em}{}
 Arka Ray\n
-M. Tech (Coursework) in Computer Science and Engineering\n
+PhD Student\n
 Department of Computer Science and Automation\n
 Indian Institute of Science, Bengaluru, India\n
 Email: arkaray@iisc.ac.in\n
 ~~~
 
-Hi! I am Arka Ray. 
-I did my masters from Computer Science and Automation department of the prestigious Indian Institute of Science (visit [https://www.csa.iisc.ac.in/ CSA@IISc] for more) and my B. Tech from [https://www.caluniv.ac.in/ University of Calcutta].
-I have always taken an interest in the more theoretical side of computer science and have studied, as part of my coursework,
-== Courses
-- approximation algorithms,
-- [https://www.csa.iisc.ac.in/~arindamkhan/courses/toolkit20/TheoristsToolkit.html theorist's toolkit],
-	-- [docs/sos.pdf LP\/SDP\/Sum of Square Hierarchies] with Rameesh Paul
-- [https://www.csa.iisc.ac.in/~chandan/courses/complexity20/home.html computational complexity theory],
-	-- [https://www.csa.iisc.ac.in/~chandan/courses/complexity20/presentations/topic1.pdf Parity not in ACC^0\[q\]] with Nabarun Deka
-- [https://www.csa.iisc.ac.in/~cris/e0_235.html cryptography].
-
-In addition, I was a TA for design and analysis of algorithms (winter 2020).
-
-I currently work on approximation algorithms, and hardness of approximation.
+Hi! I am Arka Ray.
+I am currently doing my PhD from Computer Science and Automation department of IISc, Bengaluru (visit [https://www.csa.iisc.ac.in/ CSA @ IISc]).
+I also did my masters Indian Institute of Science and did my B. Tech from [https://www.caluniv.ac.in/ University of Calcutta].
+I am broadly interested in Theoretical Computer Science.
+I currently work on Approximation Algorithms, Sum of Squares Hierarchy, Simplicial Complexes.
 [https://www.csa.iisc.ac.in/~arindamkhan/index.html Arindam Khan] and I worked on showing inapproximability results for various packing and covering problems as part of my MTech Project.
 == Manuscripts/Publications
+- [https://arxiv.org/abs/2212.13406 Sparse Cuts in Hypergraph from Random Walks on Simplicial Complexes]\n with Anand Louis, [https://rameesh-paul.github.io/ Rameesh Paul]. CoRR, December 2022.
 - [https://arxiv.org/abs/2104.13362 There is no APTAS for 2-dimensional vector bin packing: Revisited.] CoRR, April 2021.
 - [docs/masters.pdf MTech Thesis]
+
+I have also TA-ed for a bunch of course (as follows).
+== Teaching
+- Design and Analysis of Algorithms (Winter 2020).
+- [https://www.csa.iisc.ac.in/~arindamkhan/courses/toolkit21/TheoristsToolkit.html Theorist's Toolkit (Winter 2021)].
+- [https://www.csa.iisc.ac.in/~arindamkhan/courses/ApproxAlgo22/ApproxAlgo.html Approximation Algorithm (Spring 2022)].
+
+As part of my coursework I have done the following courses.
+== Courses
+- Approximation Algorithms (spring 2020),
+- [https://www.csa.iisc.ac.in/~arindamkhan/courses/toolkit20/TheoristsToolkit.html Theorist's Toolkit (Winter 2020)],
+	-- [docs/sos.pdf LP\/SDP\/Sum of Square Hierarchies] with [https://rameesh-paul.github.io/ Rameesh Paul]
+- [https://www.csa.iisc.ac.in/~chandan/courses/complexity20/home.html Computational Complexity Theory (Winter 2020)],
+	-- [https://www.csa.iisc.ac.in/~chandan/courses/complexity20/presentations/topic1.pdf Parity not in ACC^0\[q\]] with Nabarun Deka
+- [https://www.csa.iisc.ac.in/~cris/e0_235.html cryptography].
 
 This Page is still under construction. Please visit later.
 
