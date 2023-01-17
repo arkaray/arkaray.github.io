@@ -13,7 +13,8 @@ Hi! I am Arka Ray.
 I am currently doing my PhD from Computer Science and Automation department of IISc, Bengaluru (visit [https://www.csa.iisc.ac.in/ CSA @ IISc]), under [https://www.csa.iisc.ac.in/~anandl/ Anand Louis].
 I also did my masters from IISc and did my B. Tech from [https://www.caluniv.ac.in/ University of Calcutta].
 I am broadly interested in Theoretical Computer Science.
-I currently work on Approximation Algorithms, Sum of Squares Hierarchy, Simplicial Complexes.
+I currently work on Approximation Algorithms.
+I am specially interested in learning more about Sum of Squares Hierarchy, and Simplicial Complexes.
 [https://www.csa.iisc.ac.in/~arindamkhan/index.html Arindam Khan] and I worked on showing inapproximability results for various packing and covering problems as part of my MTech Project.
 == Manuscripts/Publications
 - [https://arxiv.org/abs/2212.13406 Sparse Cuts in Hypergraph from Random Walks on Simplicial Complexes]\n with [https://www.csa.iisc.ac.in/~anandl/ Anand Louis], [https://rameesh-paul.github.io/ Rameesh Paul]. CoRR, December 2022.
@@ -26,14 +27,14 @@ I have also TA-ed for a bunch of course (as follows).
 - [https://www.csa.iisc.ac.in/~arindamkhan/courses/toolkit21/TheoristsToolkit.html Theorist's Toolkit (Winter 2021)].
 - [https://www.csa.iisc.ac.in/~arindamkhan/courses/ApproxAlgo22/ApproxAlgo.html Approximation Algorithm (Spring 2022)].
 
-As part of my coursework I have done the following courses.
-== Courses
-- Approximation Algorithms (spring 2020),
-- [https://www.csa.iisc.ac.in/~arindamkhan/courses/toolkit20/TheoristsToolkit.html Theorist's Toolkit (Winter 2020)],
-	-- [docs/sos.pdf LP\/SDP\/Sum of Square Hierarchies] with [https://rameesh-paul.github.io/ Rameesh Paul]
-- [https://www.csa.iisc.ac.in/~chandan/courses/complexity20/home.html Computational Complexity Theory (Winter 2020)],
-	-- [https://www.csa.iisc.ac.in/~chandan/courses/complexity20/presentations/topic1.pdf Parity not in ACC^0\[q\]] with Nabarun Deka
-- [https://www.csa.iisc.ac.in/~cris/e0_235.html cryptography].
+#As part of my coursework I have done the following courses.
+#== Courses
+#- Approximation Algorithms (spring 2020),
+#- [https://www.csa.iisc.ac.in/~arindamkhan/courses/toolkit20/TheoristsToolkit.html Theorist's Toolkit (Winter 2020)],
+#	-- [docs/sos.pdf LP\/SDP\/Sum of Square Hierarchies] with [https://rameesh-paul.github.io/ Rameesh Paul]
+#- [https://www.csa.iisc.ac.in/~chandan/courses/complexity20/home.html Computational Complexity Theory (Winter 2020)],
+#	-- [https://www.csa.iisc.ac.in/~chandan/courses/complexity20/presentations/topic1.pdf Parity not in ACC^0\[q\]] with Nabarun Deka
+#- [https://www.csa.iisc.ac.in/~cris/e0_235.html cryptography].
 
 This Page is still under construction. Please visit later.
 
