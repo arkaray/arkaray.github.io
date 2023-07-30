@@ -17,16 +17,18 @@ I currently work on Approximation Algorithms.
 I am specially interested in learning more about Sum of Squares Hierarchy, and Simplicial Complexes.
 [https://www.csa.iisc.ac.in/~arindamkhan/index.html Arindam Khan] and I worked on showing inapproximability results for various packing and covering problems as part of my MTech Project.
 == Manuscripts/Publications
-- [https://arxiv.org/abs/2301.09272 Improved Hardness of Approximation for Geometric Bin Packing]\n with [https://spallerl.github.io/ Sai Sandeep]. CoRR, January 2023
-- [https://arxiv.org/abs/2212.13406 Sparse Cuts in Hypergraph from Random Walks on Simplicial Complexes]\n with [https://www.csa.iisc.ac.in/~anandl/ Anand Louis], [https://rameesh-paul.github.io/ Rameesh Paul]. CoRR, December 2022.
-- [https://arxiv.org/abs/2104.13362 There is no APTAS for 2-dimensional vector bin packing: Revisited.] CoRR, April 2021.
-- [docs/masters.pdf MTech Thesis]
+- [https://arxiv.org/abs/2301.09272 Improved Hardness of Approximation for Geometric Bin Packing]\n Arka Ray, and [https://spallerl.github.io/ Sai Sandeep]. CoRR, January 2023
+- [https://arxiv.org/abs/2212.13406 Sparse Cuts in Hypergraph from Random Walks on Simplicial Complexes]\n [https://www.csa.iisc.ac.in/~anandl/ Anand Louis], [https://rameesh-paul.github.io/ Rameesh Paul], and Arka Ray. CoRR, December 2022.
+- [https://arxiv.org/abs/2104.13362 There is no APTAS for 2-dimensional vector bin packing: Revisited.]\n
+Arka Ray. Inf. Process. Lett., January 2024.
+- [docs/masters.pdf MTech Thesis].
 
 I have also TA-ed for a bunch of course (as follows).
 == Teaching Assistantship
 - Design and Analysis of Algorithms (Winter 2020).
 - [https://www.csa.iisc.ac.in/~arindamkhan/courses/toolkit21/TheoristsToolkit.html Theorist's Toolkit (Winter 2021)].
 - [https://www.csa.iisc.ac.in/~arindamkhan/courses/ApproxAlgo22/ApproxAlgo.html Approximation Algorithm (Spring 2022)].
+- [https://www.csa.iisc.ac.in/~barman/daa23/E0225.html Design and Analysis of Algorithms (Winter 2023)].
 
 #As part of my coursework I have done the following courses.
 #== Courses
