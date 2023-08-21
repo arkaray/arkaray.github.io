@@ -1,4 +1,4 @@
-= Improved Hardness for Geometric Bin Packing
+= Improved Hardness of Approximation for Geometric Bin Packing
 
 == Abstract
 The Geometric Bin Packing (GBP) problem is a generalization of Bin Packing where the input is a set of $d$-dimensional rectangles, and the goal is to pack them into unit $d$-dimensional cubes efficiently. It is NP-Hard to obtain a PTAS for the problem, even when $d=2$. For general $d$, the best known approximation algorithm has an approximation guarantee exponential in $d$, while the best hardness of approximation is still a small constant inapproximability from the case when $d=2$. In this paper, we show that the problem cannot be approximated within $d^{1-\epsilon}$ factor unless NP=ZPP. 
