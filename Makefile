@@ -1,9 +1,11 @@
+HTML=docs/index.html docs/there.html docs/sparse.html docs/gpd.html
+
 .PHONY : all
-all : docs/index.html
+all : $(HTML)
 
 .PHONY : clean
 clean:
 	rm docs/index.jemdoc
 
-docs/index.html : docs/index.jemdoc
-	python3 ./jemdoc_mathjax/jemdoc $^
+%.html: %.jemdoc
+	python3 ./jemdoc_mathjax/jemdoc -c docs/mysite.conf $^

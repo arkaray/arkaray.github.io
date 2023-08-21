@@ -1,0 +1,20 @@
+= There is no APTAS for 2-dimensional vector bin packing:Revisited
+
+== Abstract
+
+We study the Vector Bin Packing and the Vector Bin Covering problems, multidimensional generalizations of the Bin Packing and the Bin Covering problems, respectively.
+In the Vector Bin Packing, we are given a set of $d$-dimensional vectors from $[0,1]^d$ and the aim is to partition the set into the minimum number of bins such that for each bin $B$, each component of the sum of the vectors in $B$ is at most 1.
+Woeginger \[Woe97\] claimed that the problem has no APTAS for dimensions greater than or equal to 2.
+We note that there was a slight oversight in the original proof.
+In this work, we give a revised proof using some additional ideas from \[BCKS06,CC09\].
+In fact, we show that it is NP-hard to get an asymptotic approximation ratio better than $\frac{600}{599}$.
+
+An instance of Vector Bin Packing is called $\delta$-skewed if every item has at most one dimension greater than $\delta$.
+As a natural extension of our general $d$-Dimensional Vector Bin Packing result we show that for $\varepsilon\in (0,\frac{1}{2500})$ it is NP-hard to obtain a $(1+\varepsilon)$-approximation for $\delta$-Skewed Vector Bin Packing if $\delta>20\sqrt \varepsilon$.
+
+In the Vector Bin Covering problem given a set of $d$-dimensional vectors from $[0,1]^d$, the aim is to obtain a family of disjoint subsets (called bins) with the maximum cardinality such that for each bin $B$, each component of the sum of the vectors in $B$ is at least 1.
+Using ideas similar to our Vector Bin Packing result, we show that for Vector Bin Covering there is no APTAS for dimensions greater than or equal to 2.
+In fact, we show that it is NP-hard to get an asymptotic approximation ratio better than $\frac{998}{997}$.
+
+=== Versions
+\[[https://arxiv.org/abs/2104.13362 arXiv]\] \[[https://www.sciencedirect.com/science/article/abs/pii/S002001902300073X IPL 24]\]

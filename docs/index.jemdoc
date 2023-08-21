@@ -17,9 +17,9 @@ I currently work on Approximation Algorithms.
 I am specially interested in learning more about Sum of Squares Hierarchy, and Simplicial Complexes.
 [https://www.csa.iisc.ac.in/~arindamkhan/index.html Arindam Khan] and I worked on showing inapproximability results for various packing and covering problems as part of my MTech Project.
 == Manuscripts/Publications
-- [https://arxiv.org/abs/2301.09272 Improved Hardness of Approximation for Geometric Bin Packing]\n Arka Ray, and [https://spallerl.github.io/ Sai Sandeep]. CoRR, January 2023.
-- [https://arxiv.org/abs/2212.13406 Sparse Cuts in Hypergraph from Random Walks on Simplicial Complexes]\n [https://www.csa.iisc.ac.in/~anandl/ Anand Louis], [https://rameesh-paul.github.io/ Rameesh Paul], and Arka Ray. CoRR, December 2022.
-- [https://arxiv.org/abs/2104.13362 There is no APTAS for 2-dimensional vector bin packing: Revisited.]\n
+- [gpd.html Improved Hardness of Approximation for Geometric Bin Packing]\n Arka Ray, and [https://spallerl.github.io/ Sai Sandeep]. CoRR, January 2023.
+- [sparse.html Sparse Cuts in Hypergraph from Random Walks on Simplicial Complexes]\n [https://www.csa.iisc.ac.in/~anandl/ Anand Louis], [https://rameesh-paul.github.io/ Rameesh Paul], and Arka Ray. CoRR, December 2022.
+- [there.html There is no APTAS for 2-dimensional vector bin packing: Revisited.]\n
 Arka Ray. Inf. Process. Lett., January 2024.
 - [docs/masters.pdf MTech Thesis].
 
