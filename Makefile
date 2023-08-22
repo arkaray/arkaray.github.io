@@ -5,7 +5,7 @@ all : $(HTML)
 
 .PHONY : clean
 clean:
-	rm docs/index.jemdoc
+	rm $(HTML)
 
 %.html: %.jemdoc
 	python3 ./jemdoc_mathjax/jemdoc -c docs/mysite.conf $^
