@@ -1,0 +1,33 @@
+= Approximability of Packing and Covering Problems
+
+== Abstract
+Packing and covering problems form a large and important class of problems in computer
+science. Many packing and covering problems are known to be NP-hard and hence we study
+them in the context of approximation algorithms.
+
+In this thesis, we look at vector bin packing, and vector bin covering which are 
+multidimensional extensions of the bin packing problem and bin covering problems, respectively.
+In the vector bin packing problem given a set of vectors $S$ from $(0, 1]^d$, the aim
+is to obtain a minimum cardinality partition of $S$ into bins $\{B_i\}$ such that 
+for each $B_i$, we have $\|\sum_{v\in B_i}v\|_\infty \leq 1$.
+Woeginger \[Woe97\] claimed that the vector bin packing has no APTAS.
+We note a minor oversight in his proof and revise it to show that there is no algorithm for vector bin packing with an asymptotic approximation ratio better than $\frac{600}{599}$ unless P = NP.
+Vector bin covering is the covering analogue of the vector bin packing problem where given a set of vectors $S$ from $(0, 1]^d$, the aim is to obtain a disjoint family of subsets (also called bins)
+with the maximum cardinality such that for each bin B, we have $\sum_{v\in B}v \geq \mathbf 1$.
+We also show that is not possible to obtain an algorithm with an asymptotic approximation ratio better than $\frac{998}{997}$ unless P = NP.
+
+We also study the multidimensional extensions of min-knapsack problem,
+which is the covering variant of the knapsack problem.
+For vector min-knapsack we obtain a PTAS and a matching lower bound showing that
+there is no EPTAS unless W\[1\]=FPT. In case of the geometric min-knapsack
+we show that there is no algorithm which can decide if there is a feasible
+solution to a given instance hence showing that there is no polynomial-time
+approximation algorithm possible for it.
+
+=== Versions
+\[[docs/masters.pdf current]\] \[[https://www.csa.iisc.ac.in/~arindamkhan/papers/ArkaRayThesis.pdf original]\]
+
+=== Notes
+- The verification of extension of the results for Packing Integer Program (PIP) \[FC84,KS10\] to Covering Integer Problem (CIP) was unnecessary as it already appeared in \[KSSS11\].\n
+This was an oversight on my part which I have also mentioned in a footnote in the current version.
+- Although this does not change the problem much, the vectors could have zeroes in some co-ordinates.
