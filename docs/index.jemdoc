@@ -14,7 +14,7 @@ I am currently doing my PhD from Computer Science and Automation department of I
 I also did my masters from IISc and did my B. Tech from [https://www.caluniv.ac.in/ University of Calcutta].
 I am broadly interested in Theoretical Computer Science.
 I currently work on Approximation Algorithms.
-I am specially interested in learning more about Sum of Squares Hierarchy, and Simplicial Complexes.
+I am specially interested in learning more about LP/SDP Hierarchies.
 [https://www.csa.iisc.ac.in/~arindamkhan/index.html Arindam Khan] and I worked on showing inapproximability results for various packing and covering problems as part of my MTech Project.
 == Manuscripts/Publications
 - [gpd.html Improved Hardness of Approximation for Geometric Bin Packing]\n Arka Ray, and [https://spallerl.github.io/ Sai Sandeep]. CoRR, January 2023.
@@ -27,10 +27,11 @@ I have also TA-ed for a bunch of course (as follows).
 == Teaching Assistantship
 - Design and Analysis of Algorithms (Winter 2020).
 - [https://www.csa.iisc.ac.in/~arindamkhan/courses/toolkit21/TheoristsToolkit.html Theorist's Toolkit (Winter 2021)].
-- [https://www.csa.iisc.ac.in/~arindamkhan/courses/ApproxAlgo22/ApproxAlgo.html Approximation Algorithm (Spring 2022)].
+- [https://www.csa.iisc.ac.in/~arindamkhan/courses/ApproxAlgo22/ApproxAlgo.html Approximation Algorithms (Spring 2022)].
 - [https://www.csa.iisc.ac.in/~barman/daa23/E0225.html Design and Analysis of Algorithms (Winter 2023)].
+- Approximation Algorithms (Spring 2024).
 
-Recently, I served as a subreviewer for [https://algo-conference.org/2023/waoa/ WAOA 23].
+I have served as a subreviewer for [https://algo-conference.org/2023/waoa/ WAOA 23].
 
 #As part of my coursework I have done the following courses.
 #== Courses
@@ -41,4 +42,4 @@ Recently, I served as a subreviewer for [https://algo-conference.org/2023/waoa/ 
 #	-- [https://www.csa.iisc.ac.in/~chandan/courses/complexity20/presentations/topic1.pdf Parity not in ACC^0\[q\]] with Nabarun Deka
 #- [https://www.csa.iisc.ac.in/~cris/e0_235.html cryptography].
 
-You can also find me at [https://scholar.google.com/citations?user=5uTyLb4AAAAJ&hl=en Google Scholar], [https://dblp.org/pid/291/4644.html dblp], [https://www.csa.iisc.ac.in/people/arka-ray/ CSA@IISc], [https://twitter.com/ArkaCSE05 twitter], [https://www.linkedin.com/in/arkaray97/ LinkedIn].
+You can also find me at [https://scholar.google.com/citations?user=5uTyLb4AAAAJ&hl=en Google Scholar], [https://dblp.org/pid/291/4644.html dblp], [http://arxiv.org/a/ray_a_4 arXiv], [https://www.csa.iisc.ac.in/people/arka-ray/ CSA@IISc], [https://twitter.com/ArkaCSE05 twitter], [https://www.linkedin.com/in/arkaray97/ LinkedIn].
