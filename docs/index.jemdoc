@@ -14,11 +14,11 @@ I am currently doing my PhD from Computer Science and Automation department of I
 I also did my masters from IISc and did my B. Tech from [https://www.caluniv.ac.in/ University of Calcutta].
 I am broadly interested in Theoretical Computer Science.
 I currently work on Approximation Algorithms.
-I am specially interested in learning more about LP/SDP Hierarchies.
+I am specially interested in learning more about LP/SDPs.
 [https://www.csa.iisc.ac.in/~arindamkhan/index.html Arindam Khan] and I worked on showing inapproximability results for various packing and covering problems as part of my MTech Project.
-== Manuscripts/Publications
+== Publications, Pre-Prints, etc.
 - [gpd.html Improved Hardness of Approximation for Geometric Bin Packing]\n Arka Ray, and [https://spallerl.github.io/ Sai Sandeep]. CoRR, January 2023.
-- [sparse.html Sparse Cuts in Hypergraph from Random Walks on Simplicial Complexes]\n [https://www.csa.iisc.ac.in/~anandl/ Anand Louis], [https://rameesh-paul.github.io/ Rameesh Paul], and Arka Ray. CoRR, December 2022.
+- [sparse.html Sparse Cuts in Hypergraph from Random Walks on Simplicial Complexes]\n [https://www.csa.iisc.ac.in/~anandl/ Anand Louis], [https://rameesh-paul.github.io/ Rameesh Paul], and Arka Ray. SWAT 2024 (to appear).
 - [there.html There is no APTAS for 2-dimensional vector bin packing: Revisited.]\n
 Arka Ray. Inf. Process. Lett., January 2024.
 - [masters.html MTech Thesis].
