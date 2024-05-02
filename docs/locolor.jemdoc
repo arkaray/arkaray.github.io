@@ -1,0 +1,23 @@
+= Improved linearly ordered colorings of hypergraphs via SDP rounding
+
+== Abstract
+
+We consider the problem of /linearly ordered/ (LO) coloring of
+hypergraphs.  A hypergraph has an LO coloring if there is a vertex
+coloring, using a set of ordered colors, so that (i) no edge is
+monochromatic, and (ii) each edge has a unique maximum color.  It is
+an open question as to whether or not a 2-LO colorable 3-uniform
+hypergraph can be LO colored with 3 colors in polynomial time.
+Nakajima and Zivny recently gave a polynomial-time algorithm to
+color such hypergraphs with $\widetilde{O}(n^{1/3})$ colors and asked
+if SDP methods can be used directly to obtain improved bounds.  Our
+main result is to show how to use SDP-based rounding methods to
+produce an LO coloring with $\widetilde{O}(n^{1/5})$ colors for such
+hypergraphs.  We first show that we can reduce the problem to cases
+with highly structured SDP solutions, which we call /balanced/
+hypergraphs.  Then we show how to apply classic SDP-rounding tools in
+this case.  We believe that the reduction to balanced hypergraphs is
+novel and could be of independent interest.
+
+=== Versions
+\[[https://arxiv.org/abs/2405.00427 arXiv]\]
