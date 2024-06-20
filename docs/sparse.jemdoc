@@ -13,4 +13,4 @@ This is a surprising difference between swaps-walks and up-down walks!
 Finally, we also give a construction to show that the well-studied notion of /link expansion/ in simplicial complexes can not be used to bound hypergraph expansion in a Cheeger like manner.
 
 === Versions
-\[[https://arxiv.org/abs/2212.13406 arXiv]\] 
+\[[https://arxiv.org/abs/2212.13406 arXiv]\] \[[https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SWAT.2024.33 SWAT'24]\]
