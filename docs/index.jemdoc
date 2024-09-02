@@ -9,13 +9,15 @@ Indian Institute of Science, Bengaluru, India\n
 Email: arkaray@iisc.ac.in\n
 ~~~
 
-Hi! I am Arka Ray.
+Hi! I am Arka Ray and I am a computer scientist.
 I am currently doing my PhD from Computer Science and Automation department of IISc, Bengaluru (visit [https://www.csa.iisc.ac.in/ CSA @ IISc]), under [https://www.csa.iisc.ac.in/~anandl/ Anand Louis].
 I also did my masters from IISc and did my B. Tech from [https://www.caluniv.ac.in/ University of Calcutta].
 I am broadly interested in Theoretical Computer Science.
 I currently work on Approximation Algorithms.
 I am specially interested in learning more about LP/SDPs.
 [https://www.csa.iisc.ac.in/~arindamkhan/index.html Arindam Khan] and I worked on showing inapproximability results for various packing and covering problems as part of my MTech Project.
+
+I am helping organize the [https://algo.csa.iisc.ac.in/winterschool24/index.html Theory CS Winter School 2024].
 == Publications, Pre-Prints, etc.
 - [/locolor.html Improved linearly ordered colorings of hypergraphs via SDP rounding.]\n
 [https://www.csa.iisc.ac.in/~anandl/ Anand Louis], [https://pagesperso.g-scop.grenoble-inp.fr/~newmana/ Alantha Newman], and *Arka Ray*. CoRR, May 2024.
@@ -33,7 +35,8 @@ I have also TA-ed for a bunch of course (as follows).
 - [https://www.csa.iisc.ac.in/~barman/daa23/E0225.html Design and Analysis of Algorithms (Winter 2023)].
 - Approximation Algorithms (Spring 2024).
 
-I have served as a subreviewer for APPROX 24, [https://algo-conference.org/2023/waoa/ WAOA 23].
+I have served as a subreviewer for FSTTCS 24, APPROX 24, WAOA 23.
+
 
 #As part of my coursework I have done the following courses.
 #== Courses
