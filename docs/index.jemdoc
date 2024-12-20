@@ -20,11 +20,10 @@ These days I am trying to learn more about Boolean (valued) functions.
 I also want to continue exploring LP and SDP based algorithms, and hardness of approximation (especially "PCP-style" reductions).
 In fact, [https://www.csa.iisc.ac.in/~arindamkhan/index.html Arindam Khan] and I worked on showing inapproximability results for various packing and covering problems as part of my MTech Project.
 
-I am helping organize the [https://algo.csa.iisc.ac.in/winterschool24/index.html Theory CS Winter School 2024].
 == Publications, Pre-Prints, etc.
 - [/locolor.html Improved linearly ordered colorings of hypergraphs via SDP rounding.]\n
-[https://www.csa.iisc.ac.in/~anandl/ Anand Louis], [https://pagesperso.g-scop.grenoble-inp.fr/~newmana/ Alantha Newman], and *Arka Ray*. FSTTCS 2024 (to appear).
-- [/gpd.html Improved Hardness of Approximation for Geometric Bin Packing.]\n *Arka Ray*, and [https://spallerl.github.io/ Sai Sandeep]. CoRR, January 2023.
+[https://www.csa.iisc.ac.in/~anandl/ Anand Louis], [https://pagesperso.g-scop.grenoble-inp.fr/~newmana/ Alantha Newman], and *Arka Ray*. FSTTCS 2024.
+- [/gpd.html Improved Hardness of Approximation for Geometric Bin Packing.]\n *Arka Ray*, and [https://spallerl.github.io/ Sai Sandeep]. Inf. Process. Lett., March 2025.
 - [/sparse.html Sparse Cuts in Hypergraph from Random Walks on Simplicial Complexes.]\n [https://www.csa.iisc.ac.in/~anandl/ Anand Louis], [https://rameesh-paul.github.io/ Rameesh Paul], and *Arka Ray*. SWAT 2024.
 - [/there.html There is no APTAS for 2-dimensional vector bin packing: Revisited.]\n
 *Arka Ray*. Inf. Process. Lett., January 2024.
@@ -50,5 +49,7 @@ I have also TA-ed for a bunch of course (as follows).
 #- [https://www.csa.iisc.ac.in/~chandan/courses/complexity20/home.html Computational Complexity Theory (Winter 2020)],
 #	-- [https://www.csa.iisc.ac.in/~chandan/courses/complexity20/presentations/topic1.pdf Parity not in ACC^0\[q\]] with Nabarun Deka
 #- [https://www.csa.iisc.ac.in/~cris/e0_235.html cryptography].
+
+I co-organized the [https://algo.csa.iisc.ac.in/winterschool24/index.html Theory CS Winter School 2024].
 
 You can also find me at [https://scholar.google.com/citations?user=5uTyLb4AAAAJ&hl=en Google Scholar], [https://dblp.org/pid/291/4644.html dblp], [http://arxiv.org/a/ray_a_4 arXiv], [https://www.csa.iisc.ac.in/people/arka-ray/ CSA@IISc], [https://twitter.com/ArkaCSE05 twitter], [https://www.linkedin.com/in/arkaray97/ LinkedIn].

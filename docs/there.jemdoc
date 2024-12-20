@@ -17,4 +17,4 @@ Using ideas similar to our Vector Bin Packing result, we show that for Vector Bi
 In fact, we show that it is NP-hard to get an asymptotic approximation ratio better than $\frac{998}{997}$.
 
 === Versions
-\[[https://arxiv.org/abs/2104.13362 arXiv]\] \[[https://www.sciencedirect.com/science/article/abs/pii/S002001902300073X IPL 24]\]
+\[[https://arxiv.org/abs/2104.13362 arXiv]\] \[[https://www.sciencedirect.com/science/article/abs/pii/S002001902300073X IPL'24]\]

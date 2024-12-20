@@ -8,4 +8,4 @@ In this paper, we introduce a geometric analog of it, the Geometric Packing Dime
 While we fall short of obtaining similar inapproximability results for the Geometric Bin Packing problem when $d$ is fixed, we prove a couple of key properties of the Geometric Packing Dimension which highlight fundamental differences between Geometric Bin Packing and Vector Bin Packing. 
 
 === Versions
-\[[https://arxiv.org/abs/2301.09272 arXiv]\]
+\[[https://arxiv.org/abs/2301.09272 arXiv]\] \[[https://www.sciencedirect.com/science/article/pii/S0020019024000826 IPL'25]\]
