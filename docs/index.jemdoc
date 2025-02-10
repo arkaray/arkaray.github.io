@@ -9,16 +9,16 @@ Indian Institute of Science, Bengaluru, India\n
 Email: arkaray@iisc.ac.in\n
 ~~~
 
-Hi! I am Arka Ray and I am a computer scientist.
-I am currently doing my PhD from Computer Science and Automation department of IISc, Bengaluru ([https://www.csa.iisc.ac.in/ CSA @ IISc]), under [https://www.csa.iisc.ac.in/~anandl/ Anand Louis].
+Hi! I am Arka Ray. I am a computer scientist.
+I am currently doing my PhD from Computer Science and Automation department of IISc, Bengaluru ([https://www.csa.iisc.ac.in/ CSA @ IISc]), advised by [https://www.csa.iisc.ac.in/~anandl/ Anand Louis].
 I also did my masters from IISc and did my B. Tech from [https://www.caluniv.ac.in/ University of Calcutta].
 
 *Research Interests*: I am broadly interested in Theoretical Computer Science.
 # I currently work on Approximation Algorithms.
 # I am specially interested in learning more about LP/SDPs.
-These days I am trying to learn more about Boolean (valued) functions.
+These days I am trying to learn more about Boolean (valued) functions and high dimensional expanders.
 I also want to continue exploring LP and SDP based algorithms, and hardness of approximation (especially "PCP-style" reductions).
-In fact, [https://www.csa.iisc.ac.in/~arindamkhan/index.html Arindam Khan] and I worked on showing inapproximability results for various packing and covering problems as part of my MTech Project.
+#In fact, [https://www.csa.iisc.ac.in/~arindamkhan/index.html Arindam Khan] and I worked on showing inapproximability results for various packing and covering problems as part of my MTech Project.
 
 == Publications, Pre-Prints, etc.
 - [/locolor.html Improved linearly ordered colorings of hypergraphs via SDP rounding.]\n
@@ -29,16 +29,17 @@ In fact, [https://www.csa.iisc.ac.in/~arindamkhan/index.html Arindam Khan] and I
 *Arka Ray*. Inf. Process. Lett., January 2024.
 - [/masters.html MTech Thesis].
 
-I have served as a subreviewer for FSTTCS 24, APPROX 24, WAOA 23.
+I have served as a subreviewer for FSTTCS 24, APPROX 24, WAOA 23 and as a reviewer for [https://theoryofcomputing.org/index.html Theory of Computation].
 
-I have also TA-ed for a bunch of course (as follows). 
-== Teaching Assistantship
-- Approximation Algorithms (Spring 2024).
-- [https://www.csa.iisc.ac.in/~barman/daa23/E0225.html Design and Analysis of Algorithms (Winter 2023)].
-- [https://www.csa.iisc.ac.in/~arindamkhan/courses/ApproxAlgo22/ApproxAlgo.html Approximation Algorithms (Spring 2022)].
-- [https://www.csa.iisc.ac.in/~arindamkhan/courses/toolkit21/TheoristsToolkit.html Theorist's Toolkit (Winter 2021)].
-- Design and Analysis of Algorithms (Winter 2020).
+I have also TA-ed for a bunch of course:
+[https://www.csa.iisc.ac.in/~arindamkhan/courses/RandAlgo25/RandAlgo25.html Introduction to Randomized Algorithms (Spring 2025)],
+Approximation Algorithms (Spring 2024),
+[https://www.csa.iisc.ac.in/~barman/daa23/E0225.html Design and Analysis of Algorithms (Winter 2023)],
+[https://www.csa.iisc.ac.in/~arindamkhan/courses/ApproxAlgo22/ApproxAlgo.html Approximation Algorithms (Spring 2022)],
+[https://www.csa.iisc.ac.in/~arindamkhan/courses/toolkit21/TheoristsToolkit.html Theorist's Toolkit (Winter 2021)],
+and Design and Analysis of Algorithms (Winter 2020).
 
+#== Teaching Assistantship
 
 
 #As part of my coursework I have done the following courses.
