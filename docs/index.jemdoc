@@ -29,15 +29,17 @@ I also want to continue exploring LP and SDP based algorithms, and hardness of a
 *Arka Ray*. Inf. Process. Lett., January 2024.
 - [/masters.html MTech Thesis].
 
+== Talks
+- Sparse Cuts in Hypergraphs using Random Walks on Simplicial Complexes\n ICTS workshop on HDXs and Codes Workshop ([https://youtu.be/XZeXqw9CM2o?si=2PnDNbA7ZV50DFup&t=2352 YouTube]).
+- Hypergraph (Linearly Ordered) Coloring\n Discussion meeting on Geometry, Probability, and Algorithms, ICTS ([https://youtu.be/eaWEBWTRzkk?si=FBoAyyTG803JQ39_ YouTube]).
+
 I have served as a subreviewer for FSTTCS 24, APPROX 24, WAOA 23 and as a reviewer for [https://theoryofcomputing.org/index.html Theory of Computation].
 
 I have also TA-ed for a bunch of course:
-[https://www.csa.iisc.ac.in/~arindamkhan/courses/RandAlgo25/RandAlgo25.html Introduction to Randomized Algorithms (Spring 2025)],
-Approximation Algorithms (Spring 2024),
-[https://www.csa.iisc.ac.in/~barman/daa23/E0225.html Design and Analysis of Algorithms (Winter 2023)],
-[https://www.csa.iisc.ac.in/~arindamkhan/courses/ApproxAlgo22/ApproxAlgo.html Approximation Algorithms (Spring 2022)],
-[https://www.csa.iisc.ac.in/~arindamkhan/courses/toolkit21/TheoristsToolkit.html Theorist's Toolkit (Winter 2021)],
-and Design and Analysis of Algorithms (Winter 2020).
+Introduction to Randomized Algorithms ([https://www.csa.iisc.ac.in/~arindamkhan/courses/RandAlgo25/RandAlgo25.html Spring 2025]),
+Approximation Algorithms (Spring 2024, [https://www.csa.iisc.ac.in/~arindamkhan/courses/ApproxAlgo22/ApproxAlgo.html Spring 2022]),
+Design and Analysis of Algorithms ([https://www.csa.iisc.ac.in/~barman/daa23/E0225.html Winter 2023], Winter 2020),
+and Theorist's Toolkit ([https://www.csa.iisc.ac.in/~arindamkhan/courses/toolkit21/TheoristsToolkit.html Winter 2021]),
 
 #== Teaching Assistantship
 
@@ -51,6 +53,6 @@ and Design and Analysis of Algorithms (Winter 2020).
 #	-- [https://www.csa.iisc.ac.in/~chandan/courses/complexity20/presentations/topic1.pdf Parity not in ACC^0\[q\]] with Nabarun Deka
 #- [https://www.csa.iisc.ac.in/~cris/e0_235.html cryptography].
 
-I am co-organizing the [https://algo.csa.iisc.ac.in/summerschool_25/index.html Summer School on Approximation Algorithms 2025]. I also helped in organizing the [https://algo.csa.iisc.ac.in/winterschool24/index.html Theory CS Winter School 2024].
+I was a co-organizer for the [https://algo.csa.iisc.ac.in/summerschool_25/index.html Summer School on Approximation Algorithms 2025]. I also helped in organizing the [https://algo.csa.iisc.ac.in/winterschool24/index.html Theory CS Winter School 2024].
 
 You can also find me at [https://scholar.google.com/citations?user=5uTyLb4AAAAJ&hl=en Google Scholar], [https://dblp.org/pid/291/4644.html dblp], [http://arxiv.org/a/ray_a_4 arXiv], [https://www.csa.iisc.ac.in/people/arka-ray/ CSA@IISc], [https://twitter.com/ArkaCSE05 twitter], [https://www.linkedin.com/in/arkaray97/ LinkedIn].
