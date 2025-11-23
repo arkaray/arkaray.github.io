@@ -20,8 +20,8 @@ These days I am trying to learn more about Boolean (valued) functions and high d
 I also want to continue exploring LP and SDP based algorithms, and hardness of approximation (especially "PCP-style" reductions).
 #In fact, [https://www.csa.iisc.ac.in/~arindamkhan/index.html Arindam Khan] and I worked on showing inapproximability results for various packing and covering problems as part of my MTech Project.
 
-== Research
-=== Publications
+== Publications
+=== Papers
 - [/locolor.html Improved linearly ordered colorings of hypergraphs via SDP rounding.]\n
 [https://www.csa.iisc.ac.in/~anandl/ Anand Louis], [https://pagesperso.g-scop.grenoble-inp.fr/~newmana/ Alantha Newman], and *Arka Ray*. FSTTCS 2024.
 - [/gpd.html Improved Hardness of Approximation for Geometric Bin Packing.]\n *Arka Ray*, and [https://spallerl.github.io/ Sai Sandeep]. Inf. Process. Lett., March 2025.
