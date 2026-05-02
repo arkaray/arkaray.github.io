@@ -1,0 +1,14 @@
+= A Simple Sub-Polynomial Degree Coboundary Expander 
+
+== Abstract
+High dimensional expanders simultaneously satisfying spectral and combinatorial (coboundary)
+expansion have recently played a major role in breakthroughs in PCP and coding theory, but
+the only known construction of such complexes is extremely involved, requiring deep algebraic
+number theory. In this work, we give an extremely simple combinatorial construction of a
+sub-polynomial degree complex based on projections of the flags complex (subspace chains)
+that is (i) a local spectral expander, (ii) a coboundary expander, and (iii) a swap coboundary
+expander. As a corollary, we also give the first near-linear size combinatorial hypergraphs with
+good agreement tests in the ‘1%’ regime, and a simple PCP construction with near-linear size.
+
+=== Versions
+There are no version available online. Please mail me if you need a copy.

@@ -10,7 +10,7 @@ Email: arkaray@iisc.ac.in\n
 ~~~
 
 Hi! I am Arka Ray. I am a computer scientist.
-Currently, I am doing my PhD from the Computer Science and Automation department of IISc, Bengaluru ([https://www.csa.iisc.ac.in/ CSA @ IISc]), advised by [https://www.csa.iisc.ac.in/~anandl/ Anand Louis].
+I am pursuing a PhD from the Computer Science and Automation department of IISc, Bengaluru ([https://www.csa.iisc.ac.in/ CSA @ IISc]).
 Before this, I did my masters from IISc and my B. Tech from [https://www.caluniv.ac.in/ University of Calcutta].
 
 *Research Interests*: I am broadly interested in Theoretical Computer Science.
@@ -22,6 +22,8 @@ I also want to continue exploring LP and SDP based algorithms, and hardness of a
 
 == Publications
 === Papers
+- [/simpleHDX.html A Simple Sub-Polynomial Degree Coboundary Expander.]\n
+  [https://cseweb.ucsd.edu/~nmhopkin/ Max Hopkins], and *Arka Ray*. CCC 2026.
 - [/locolor.html Improved linearly ordered colorings of hypergraphs via SDP rounding.]\n
 [https://www.csa.iisc.ac.in/~anandl/ Anand Louis], [https://pagesperso.g-scop.grenoble-inp.fr/~newmana/ Alantha Newman], and *Arka Ray*. FSTTCS 2024.
 - [/gpd.html Improved Hardness of Approximation for Geometric Bin Packing.]\n *Arka Ray*, and [https://spallerl.github.io/ Sai Sandeep]. Inf. Process. Lett., March 2025.
