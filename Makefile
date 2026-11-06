@@ -7,5 +7,5 @@ all : $(HTML)
 clean:
 	rm $(HTML)
 
-%.html: %.jemdoc
-	python3 ./jemdoc_mathjax/jemdoc -c docs/mysite.conf $^
+%.html: %.jemdoc docs/mysite.conf
+	python3 ./jemdoc_mathjax/jemdoc -c docs/mysite.conf $<
