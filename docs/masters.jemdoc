@@ -14,7 +14,7 @@ Woeginger \[Woe97\] claimed that the vector bin packing has no APTAS.
 We note a minor oversight in his proof and revise it to show that there is no algorithm for vector bin packing with an asymptotic approximation ratio better than $\frac{600}{599}$ unless P = NP.
 Vector bin covering is the covering analogue of the vector bin packing problem where given a set of vectors $S$ from $(0, 1]^d$, the aim is to obtain a disjoint family of subsets (also called bins)
 with the maximum cardinality such that for each bin B, we have $\sum_{v\in B}v \geq \mathbf 1$.
-We also show that is not possible to obtain an algorithm with an asymptotic approximation ratio better than $\frac{998}{997}$ unless P = NP.
+We also show that it is not possible to obtain an algorithm with an asymptotic approximation ratio better than $\frac{998}{997}$ unless P = NP.
 
 We also study the multidimensional extensions of min-knapsack problem,
 which is the covering variant of the knapsack problem.
