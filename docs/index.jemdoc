@@ -20,10 +20,16 @@ These days I am trying to learn more about Boolean (valued) functions and high d
 I also want to continue exploring LP and SDP based algorithms, and hardness of approximation (especially "PCP-style" reductions).
 #In fact, [https://www.csa.iisc.ac.in/~arindamkhan/index.html Arindam Khan] and I worked on showing inapproximability results for various packing and covering problems as part of my MTech Project.
 
+~~~
+{Highlights}
+- I am currently looking for *postdoctoral positions*---please feel free to reach out at [arkaray@iisc.ac.in]!
+#- I will be visiting the [https://csc.ncsu.edu/ Department of Computer Science] at [https://www.ncsu.edu/ NC State University (NCSU)].
+~~~
+
 == Publications
 === Papers
 - [/chernoff.html Concentration on HDX: Simplified and Optimized.]\n
-  [https://nirjhar-das.github.io/ Nirjhar Das], [https://cseweb.ucsd.edu/~nmhopkin/ Max Hopkins], and *Arka Ray*, [https://njtung.github.io/ Nathan Tung].
+  [https://nirjhar-das.github.io/ Nirjhar Das], [https://cseweb.ucsd.edu/~nmhopkin/ Max Hopkins], *Arka Ray*, [https://njtung.github.io/ Nathan Tung].
 - [/simpleHDX.html A Simple Sub-Polynomial Degree Coboundary Expander.]\n
   [https://cseweb.ucsd.edu/~nmhopkin/ Max Hopkins], and *Arka Ray*. CCC 2026.
 - [/locolor.html Improved linearly ordered colorings of hypergraphs via SDP rounding.]\n
