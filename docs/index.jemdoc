@@ -22,6 +22,8 @@ I also want to continue exploring LP and SDP based algorithms, and hardness of a
 
 == Publications
 === Papers
+- [/chernoff.html Concentration on HDX: Simplified and Optimized.]\n
+  [https://nirjhar-das.github.io/ Nirjhar Das], [https://cseweb.ucsd.edu/~nmhopkin/ Max Hopkins], and *Arka Ray*, [https://njtung.github.io/ Nathan Tung].
 - [/simpleHDX.html A Simple Sub-Polynomial Degree Coboundary Expander.]\n
   [https://cseweb.ucsd.edu/~nmhopkin/ Max Hopkins], and *Arka Ray*. CCC 2026.
 - [/locolor.html Improved linearly ordered colorings of hypergraphs via SDP rounding.]\n

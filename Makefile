@@ -1,4 +1,4 @@
-HTML=docs/index.html docs/there.html docs/sparse.html docs/gpd.html docs/masters.html docs/locolor.html docs/simpleHDX.html
+HTML=docs/index.html docs/there.html docs/sparse.html docs/gpd.html docs/masters.html docs/locolor.html docs/simpleHDX.html docs/chernoff.html
 
 .PHONY : all
 all : $(HTML)

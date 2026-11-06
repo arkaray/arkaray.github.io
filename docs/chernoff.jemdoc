@@ -1,0 +1,19 @@
+= Concentration on HDX: Simplified and Optimized 
+
+== Abstract
+High-dimensional expanders have played a major role in recent breakthroughs in PCP, agreement tests, and pseudorandomness.
+    A key part of this success can be attributed to their exceptional concentration and sampling properties that arise from a powerful `local-to-global' framework: local spectral guarantees (called /local spectral expansion/) lead to strong /global/ pseudo-independence properties, closely resembling product distributions despite their sparsity and inherent correlations.
+    
+    In this paper, we ask how closely local spectral expanders match truly independent distributions through the lens of two classical probabilistic questions:
+        . /Concentration of measure/: How often does the sample mean significantly deviate from the true mean? The celebrated Chernoff-Hoeffding bound, which states this deviation is subgaussian for independent random variables, resolves this question for product distributions.
+
+        . /Hitting-set bounds/: Given a subset of the vertices $A \subseteq V$, what is the probability we draw a hyperedge entirely contained within $A$? For $d$ independently drawn vertices, the probability of containment is simply $\mu^d$, where $\mu$ is the measure of $A$.
+
+    We resolve the first question for local spectral expanders by proving an optimal subgaussian Chernoff bound of $\exp(-\Omega(\eta \alpha^2 d))$ for any $d$-dimensional simplicial complex whose links of $(d-2)$-dimensional faces have spectral expansion $\frac{1-\eta}{d-1}$ for $\eta \in (0, 1]$---hence our bound holds all the way up to the fundamental /trickle-down threshold of $\frac{1}{d-1}$.
+    For the second question, we establish a multiplicative hitting-set bound for one-sided $\lambda$-local spectral expanders, showing that a vertex set of measure $\mu$ contains a random $d$-set with probability at most $\mu(\mu + (d-1)\lambda)^{d-1}$ and eliminating the additive $\lambda$ error present in prior work.
+
+     Finally, we `bootstrap' these bounds to obtain analogous statements for /higher-order/ substructures, e.g., we may ask for a family of /$i$-sets/, whether a random $d$-set is contained in or sees them in an appropriate fraction.
+     We hope these would lead to further improvements in agreement testing, codes, etc.
+
+=== Versions
+\[[https://github.com/sigact-stoc/stoc2027/releases/download/papers-1/787.pdf STOC Submission]\]
